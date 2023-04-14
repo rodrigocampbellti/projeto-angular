@@ -1,0 +1,8 @@
+.container{
+    border: 2px solid #f6f6f6;
+    -webkit-box-shadow: 0 30px 60px 0 rgba(0,0,0,0.3);
+    box-shadow: 0 30px 60px 0 rgba(0,0,0,0.3);
+}
+ img{
+    margin-top: 20px;
+ }
